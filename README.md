@@ -7,7 +7,7 @@ What drives me is the vision of creating **open, locally grounded solutions** th
 
 ## 🚀 About Me
 
-- **Aspiring Embedded Systems & IoT Engineer**
+- **Aspiring Embedded Systems Security & IoT Engineer**
 - Explorer of **space, AI, and connected devices**
 - Advocate for **open-source tech** and **community empowerment**
 
